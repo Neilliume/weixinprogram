@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/movie/movie",
+    "pages/cinema/cinema",
+    "pages/find/find",
+    "pages/me/me"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#D53E37",
+    "navigationBarTitleText": "电影",
+    "navigationBarTextStyle":"white"
+  }
+  "tabBar":{
+    "select"
+  }
+}
